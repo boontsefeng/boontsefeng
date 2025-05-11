@@ -13,14 +13,6 @@
 - 🧠 Mental health advocate through roles in the Wellness Campaign and Peer Support Society.
 - 🗣️ Trilingual: Fluent in English, Malay, and Mandarin.
 
-## 📊 GitHub Stats
-
-| My GitHub Stats | Most Used Languages |
-|-----------------|---------------------|
-| ![GitHub Stats]((https://github-readme-stats.vercel.app/api?username=boontsefeng&show_icons=true&theme=radical&count_private=true)) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boontsefeng&layout=compact&theme=radical) |
-
----
-
 ## 🚀 Project Highlights
 
 ### 🛒 Home Appliance Web App (Java, JSP, MySQL)
