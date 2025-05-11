@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=boontsefeng&label=Views&color=0e75b6&style=flat" alt="boontsefeng" />
+</p>
+
 # 👨‍💻 Boon Tse Feng | Diploma in IT Student @ TARUMT
+📍 Taman Melawati, Kuala Lumpur  
 
 🎓 I’m a passionate and driven Diploma in Information Technology student at Tunku Abdul Rahman University of Management and Technology (TARUMT), with a strong foundation in full-stack web development, systems analysis, and database design. I actively participate in leadership and wellness initiatives while maintaining a CGPA of 3.849.
 
@@ -11,6 +16,14 @@
   - President, Industrial Visit to MY5G Portal
 - 🧠 Mental health advocate through roles in the Wellness Campaign and Peer Support Society.
 - 🗣️ Trilingual: Fluent in English, Malay, and Mandarin.
+
+## 📊 GitHub Stats
+
+| My GitHub Stats | Most Used Languages |
+|-----------------|---------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boontsefeng&show_icons=true&theme=radical&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boontsefeng&layout=compact&theme=radical) |
+
+---
 
 ## 🚀 Project Highlights
 
@@ -52,11 +65,19 @@ MVC Architecture, Object-Oriented Programming, System Design, Database Managemen
 **Soft Skills:**  
 Project Management, Public Speaking, Workshop Facilitation, Cross-team Communication, Documentation
 
-## 📫 Contact Me
+## 📬 Contact Me
 
-📍 Taman Melawati, Kuala Lumpur  
-📧 maxwellbtf@gmail.com  
-📞 +6011-24008260  
-🔗 [LinkedIn – Maxwell Boon](https://www.linkedin.com/in/boontsefeng)  
-🐙 [GitHub – boontsefeng](https://github.com/boontsefeng)
+- ✉️ Email: [maxwellbtf@gmail.com](mailto:maxwellbtf@gmail.com)
+- 📞 Phone Number: +6011-24008260  
+- 🔗 LinkedIn: [Maxwell Boon](https://www.linkedin.com/in/boontsefeng)
+- 🐙 GitHub: [boontsefeng](https://github.com/boontsefeng)
+
+---
+
+## 🔗 Social Media
+
+- Instagram: [@boontsefeng](https://www.instagram.com/boontsefeng)
+
+---
+
 
