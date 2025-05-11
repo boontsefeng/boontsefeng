@@ -60,12 +60,9 @@ Project Management, Public Speaking, Workshop Facilitation, Cross-team Communica
 - 🔗 LinkedIn: [Maxwell Boon](https://www.linkedin.com/in/boontsefeng)
 - 🐙 GitHub: [boontsefeng](https://github.com/boontsefeng)
 
----
-
 ## 🔗 Social Media
 
 - Instagram: [@boontsefeng](https://www.instagram.com/boontsefeng)
 
----
 
 
