@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boontsefeng&label=Views&color=0e75b6&style=flat" alt="boontsefeng" />
-</p>
-
 # 👨‍💻 Boon Tse Feng | Diploma in IT Student @ TARUMT
 📍 Taman Melawati, Kuala Lumpur  
 
