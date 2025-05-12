@@ -1,4 +1,4 @@
-# 👨‍💻 Boon Tse Feng | Diploma in IT Student @ TARUMT <p><img src="https://komarev.com/ghpvc/?username=boontsefeng&label=Views&color=0e75b6&style=flat" alt="boontsefeng" /></p>
+# 👨‍💻 Boon Tse Feng | Diploma in IT Student @ TARUMT 
 📍 Taman Melawati, Kuala Lumpur  
 
 🎓 I’m a passionate and driven Diploma in Information Technology student at Tunku Abdul Rahman University of Management and Technology (TARUMT), with a strong foundation in full-stack web development, systems analysis, and database design. I actively participate in leadership and wellness initiatives while maintaining a CGPA of 3.849.
@@ -57,7 +57,7 @@ Project Management, Public Speaking, Workshop Facilitation, Cross-team Communica
 
 - ✉️ Email: [maxwellbtf@gmail.com](mailto:maxwellbtf@gmail.com)
 - 📞 Phone Number: +6011-24008260  
-- 🔗 LinkedIn: [Maxwell Boon](https://www.linkedin.com/in/boontsefeng)
+- 🔗 LinkedIn: [Maxwell Boon](https://www.linkedin.com/in/maxwell-boon-4316502b6/)
 - 🐙 GitHub: [boontsefeng](https://github.com/boontsefeng)
 
 ## 🔗 Social Media
